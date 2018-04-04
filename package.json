@@ -1,0 +1,24 @@
+{
+  "name": "servedata3",
+  "version": "1.0.0",
+  "description": "Express drill",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craneswalker/serveData3.git"
+  },
+  "author": "Jacob Crane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craneswalker/serveData3/issues"
+  },
+  "homepage": "https://github.com/craneswalker/serveData3#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
