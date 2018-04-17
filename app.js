@@ -28,7 +28,7 @@ app.get("/:id", function(request, response){
       }
     })
   } else {
-    response.json({data: record});
+    response.json({data: record})
   }
 })
 
